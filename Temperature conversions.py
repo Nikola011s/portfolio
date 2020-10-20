@@ -2,7 +2,7 @@
     This code is used for converting temperatrue between Celsius, Kelvin and Farenhait.
     User inputs a temperature, then he chooses a conversion option.
     Output example ( input was 10, option 1 was selected Celsious to Kelvin
-    10 C = -263 K
+    10 C = 283 K
     
 """
 

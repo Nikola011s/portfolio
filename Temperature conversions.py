@@ -1,4 +1,12 @@
-def menu():  # je funkcija koja ce samo da ispise meni i da ponudi korisniku da unese broj i ako je taj broj validan vratice ga kao rezultat
+"""
+    This code is used for converting temperatrue between Celsius, Kelvin and Farenhait.
+    User inputs a temperature, then he chooses a conversion option.
+    Output example ( input was 10, option 1 was selected Celsious to Kelvin
+    10 C = -263 K
+    
+"""
+
+def menu():  
     """
        This is a function that writes out the options and returns value from 1 to 66.
 
